@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1696617291 source:d:\practica c\proyectofinal\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"jugador.h"
+	"puntos.h"
+	"preguntas.h"
+
+1696458909 d:\practica c\proyectofinal\lista.h
+
+1696458931 source:d:\practica c\proyectofinal\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1696622560 source:d:\practica c\proyectofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"jugador.h"
+	"preguntas.h"
+
+1696617170 d:\practica c\proyectofinal\jugador.h
+	"lista.h"
+
+1696463269 d:\practica c\proyectofinal\puntos.h
+
+1696462992 source:d:\practica c\proyectofinal\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"puntos.h"
+
+1696622817 source:d:\practica c\proyectofinal\preguntas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"preguntas.h"
+	"respuestas.h"
+
+1696548477 d:\practica c\proyectofinal\preguntas.h
+	"respuestas.h"
+
+1696622099 source:d:\practica c\proyectofinal\respuestas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"respuestas.h"
+
+1696618029 d:\practica c\proyectofinal\respuestas.h
+	"lista.h"
+

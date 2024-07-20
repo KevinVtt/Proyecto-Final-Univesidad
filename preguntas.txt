@@ -1,0 +1,12 @@
+1,¿Cuando acabo la Segunda Guerra Mundial?.
+2,¿Cual era el apellido de la reina Isabel II de Inglaterra?.
+3,¿En que pais se uso la primera bomba atomica?.
+4,¿En que anio murio Freddie Mercury?.
+5,¿En que anio llego Cristobal Colon a America?.
+6,¿En que anio cayo el Muro de Berlin?.
+7,¿En que pais nacio Adolf Hitler?.
+8,¿Cuando empezo la Revolucion Rusa?.
+9,¿En que anio se hundio el Titanic?.
+10,¿Con cuantos anios murio la Reina Isabel Segunda?.
+11,¿En que anio se produjo la Revolucion Francesa?
+12,¿En que pais se origino la civilizacion azteca?
